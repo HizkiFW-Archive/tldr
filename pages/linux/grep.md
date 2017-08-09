@@ -1,6 +1,6 @@
 # grep
 
-> Utility to search text for a regex pattern
+> Utility to search text for a regex pattern.
 
 - Search for a pattern in a file:
 
